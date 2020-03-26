@@ -1,24 +1,16 @@
-# README
+# Rails_Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Install
 
-Things you may want to cover:
+* Clone repository
+* `bin/rake db:migrate`
+* `bin/rails server`
 
-* Ruby version
+## Technologies Used
 
-* System dependencies
+* Ruby on Rails
+* Bootstrap
 
-* Configuration
+## Author
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Mark Powalisz
